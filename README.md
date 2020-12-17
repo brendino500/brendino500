@@ -2,11 +2,11 @@
 
 # Hi there 👋
 
-I started to learn computer programming in the spring of 2020 to upskill myself and learn something new. Originally starting with a Udemy course on Java, I quickly signed up to a coding bootcamp with General Assembly. 
+I started to learn computer programming in the spring of 2020 to **upskill myself and learn something new.** Originally starting with a **Udemy course on Java**, I quickly signed up to a **coding bootcamp with General Assembly.** 
 
 As you can see with by GitHub stats below, my learning hasn't stopped (and probably never will 🤓) as I've looked into many languages and frameworks.
 
-If you see that I've written dirty code or I've done something completely wrong, please please let me know!
+**If you see that I've written dirty code or I've done something completely wrong, please please let me know!**
 
 I'm currently seeking my first role in the industry so any tips would be greatly appreciated. 🚀
 
