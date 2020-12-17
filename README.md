@@ -20,6 +20,14 @@ I'm currently seeking my first role in the industry so any tips would be greatly
   <img align="center" src="https://i.ibb.co/JcB2Xzy/instagram.png" alt="instagram" border="0" width="20">
 </a>
 
+---
+### 👩‍💻 I'm currently learning 
+
+* TypeScript
+* Jest and Enzyme
+* Cello
+* 🎹 Copin (for the rest of my life)
+
 ## 💾 GitHub Stats
 
 [![Brendino500 github stats](https://github-readme-stats.vercel.app/api?username=brendino500&hide=issues,prs&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
