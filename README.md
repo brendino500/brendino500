@@ -4,13 +4,21 @@
 
 </div>
 
-# Hi there 👋
+## Hi there 👋
 
-I started to learn computer programming in the spring of 2020 to **upskill myself and learn something new.** Originally starting with a **Udemy course on Java**, I quickly signed up to a **coding bootcamp with General Assembly.**
+I'm Brenda and I enjoy learning and making things.
 
-**If you see that I've written dirty code or I've done something completely wrong, please please let me know!**
+### 🛠 I'm currently working on:
 
-I'm currently seeking my first role in the industry so any tips would be greatly appreciated. 🚀
+- A parallax tourist page
+- A music practice app with React Native
+
+### 👩‍💻 I'm currently learning
+
+- TypeScript
+- Jest & Enzyme
+- Cello
+- 🎹 Copin (for the rest of my life)
 
 <div align="center">
 <a href="https://www.linkedin.com/in/brendaty/" target="_blank">
@@ -22,15 +30,6 @@ I'm currently seeking my first role in the industry so any tips would be greatly
 <a href="https://www.instagram.com/brendino500/" target="_blank">
   <img align="center" src="https://i.ibb.co/JcB2Xzy/instagram.png" alt="instagram" border="0" width="20">
 </a></div>
-
----
-
-### 👩‍💻 I'm currently learning
-
-- TypeScript
-- Jest and Enzyme
-- Cello
-- 🎹 Copin (for the rest of my life)
 
 ## 💾 GitHub Stats
 
