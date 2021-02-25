@@ -15,10 +15,9 @@ I'm Brenda and I enjoy learning and making things.
 
 ### 👩‍💻 I'm currently learning
 
-- TypeScript
-- Jest & Enzyme
+- Algorithms & Data Structures
 - Cello
-- 🎹 Copin (for the rest of my life)
+- 🎹 Chopin (for the rest of my life)
 
 <div align="center">
 <a href="https://www.linkedin.com/in/brendaty/" target="_blank">
