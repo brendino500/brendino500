@@ -11,19 +11,20 @@ I'm Brenda and I enjoy learning and making things.
 ### 🛠 I'm currently working on:
 
 - A parallax tourist page
-- A music practice app with React Native
+- A music practice app in React Native
 
 ### 👩‍💻 I'm currently learning
 
 - Algorithms & Data Structures
 - Cello
 - 🎹 Chopin (for the rest of my life)
+- Tagalog
 
 <div align="center">
 <a href="https://www.linkedin.com/in/brendaty/" target="_blank">
   <img align="center" src="https://i.ibb.co/pnQL8p3/linkedin-logo.png" alt="linkedin-logo" border="0" width="20">
 </a> 
-<a href="https://twitter.com/btcodes" target="_blank">
+<a href="https://twitter.com/brendino500" target="_blank">
   <img align="center" src="https://i.ibb.co/sVPWYZm/twitter.png" alt="twitter" border="0" width="20">
 </a>
 <a href="https://www.instagram.com/brendino500/" target="_blank">
